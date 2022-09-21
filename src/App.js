@@ -11,6 +11,7 @@ function App() {
   return (
       <div className = "App" >
       <header className="App-header">
+        <Form/>
         <Frase/>
         <SayMyName nome="Lucas" />
         <SayMyName nome="Matheus" />
@@ -18,7 +19,6 @@ function App() {
         <List />
         <Evento numero="1" />
         <Evento numero="2" />
-        <Form/>
       </header>
       
     </div>

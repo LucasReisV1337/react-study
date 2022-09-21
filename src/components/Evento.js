@@ -1,4 +1,6 @@
-function Evento({ numero}) { 
+
+
+function Evento({ numero }) { 
     function meuEvento() { 
         alert(`Ativado! ${numero}`)
     }
@@ -6,6 +8,7 @@ function Evento({ numero}) {
     return (
         <div>
             <p>Clique para disparar um evento: </p>
+    
             <button onClick={meuEvento}>Ativar!</button>
         </div>
     )
