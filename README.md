@@ -9,7 +9,7 @@ ministrado por [Matheus Battisti](https://www.udemy.com/user/matheus-battisti/).
 
 ## :bookmark_tabs: Conteúdo do Curso
 1. [Seção 1: Teoria do React](https://github.com/LucasReisV1337/react-study)
-2. [Seção 2: Projeto.](https://github.com/LucasReisV1337/Project-React)
+2. Seção 2: Projeto.(Você está aqui)
 
 
 ---
