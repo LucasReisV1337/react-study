@@ -1,5 +1,5 @@
 # :atom_symbol: Curso React
-Tarefas completas desenvolvidas com React do curso do Matheus Battisti - Hora de Codar
+Tarefas completas e testes desenvolvidos com React do curso do Matheus Battisti - Hora de Codar
 !
 
 
